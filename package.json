@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "scrape": "~0.2.3",
-    "underscore": "~1.6.0"
+    "underscore": "~1.12.1"
   },
   "repository": "github.com/zuzak/nao-parse.git",
   "keywords": [
